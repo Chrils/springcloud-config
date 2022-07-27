@@ -4,4 +4,4 @@ spring:
   application:
     name: dev-service
 config:
-  info: "version 1"
+  info: "version 2"
