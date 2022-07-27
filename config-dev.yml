@@ -3,3 +3,5 @@ server:
 spring:
   application:
     name: dev-service
+config:
+  info: "version 1"
